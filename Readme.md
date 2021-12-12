@@ -1,7 +1,7 @@
 The aim of this project is to make you code a function that returns a line, read from a file descriptor.
 
 roadmap of the project:
-#Since we are working with strings, i started considering what functions i probably would use .
+#Since we are working with strings, i started considering what functions i probably would use.
 ___________________________________________________________________________________________
 .strlen - man strlen
 
